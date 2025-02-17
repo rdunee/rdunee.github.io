@@ -1,1 +1,25 @@
+# Site settings
+title: "My Portfolio"
+description: "A portfolio website showcasing my CV, projects, and blog posts."
+url: "https://yourusername.github.io"  # Change to your site URL
+baseurl: ""  # Leave empty for user sites; add subpath for project sites
+
+# Theme
 theme: jekyll-theme-minimal
+
+# Navigation links (custom array for our header; the minimal theme may not have a built-in nav so we’ll add it in our layouts)
+nav:
+  - title: "About Me"
+    url: /about/
+  - title: "Professional Experience"
+    url: /professional_experience/
+  - title: "Achievements"
+    url: /achievements/
+  - title: "Projects"
+    url: /projects/
+  - title: "Blog Posts"
+    url: /blog/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
