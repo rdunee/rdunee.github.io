@@ -1,63 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Roland Dunee - Portfolio - My Portfolio</title>
-  <link rel="stylesheet" href="/assets/main.css">
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-</head>
-<body>
-  <div class="outer-wrapper">
-    <div class="container">
-      <!-- Static Sidebar -->
-      <aside class="sidebar">
-        <img src="/assets/profile-image.jpg" alt="Roland Dunee" class="profile-image">
-        <h1>Roland Dunee</h1>
-        <p>Results-driven IT professional with a Master of Science in Information Technology specializing in Cyber Security. Proven track record in IT service management, system admin,  and support. Instrumental in successful Passport Projects for Ghana and Liberia at Buck Press  Limited. </p>
-        <ul class="social-media">
-          <li>
-            <a href="mailto:rdunee@gmail.com" aria-label="Email">
-              <i class="fas fa-envelope"></i><span>  Email</span>
-            </a>
-          </li>
-          <li>
-            <a href="https://twitter.com/rdunee" target="_blank" aria-label="Twitter">
-              <i class="fab fa-twitter"></i><span>  Twitter</span>
-            </a>
-          </li>
-          <li>
-            <a href="https://linkedin.com/in/rdunee" target="_blank" aria-label="LinkedIn">
-              <i class="fab fa-linkedin-in"></i><span>  LinkedIn</span>
-            </a>
-          </li>
-          <li>
-            <a href="https://github.com/rdunee" target="_blank" aria-label="GitHub">
-              <i class="fab fa-github"></i><span>  Github</span>
-            </a>
-          </li>
-        </ul>
-      </aside>
-
-      <!-- Scrollable Content Area -->
-      <main class="content">
-        
-  <nav>
-    <ul>
-      
-        <li><a href="/about/">About Me</a></li>
-      
-        <li><a href="/professional_experience/">Professional Experience</a></li>
-      
-        <li><a href="/achievements/">Achievements</a></li>
-      
-        <li><a href="/projects/">Projects</a></li>
-      
-        <li><a href="/blog/">Blog Posts</a></li>
-      
-    </ul>
-  </nav>
-        <div class="profile-header">
+I"G<div class="profile-header">
   <h1>ROLAND DUNEE</h1>
   <p>IT Support Engineer Manager | (+250) 793 092 180 | <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a> | <a href="mailto:rdunee@gmail.com">rdunee@gmail.com</a> | Kigali, Rwanda</p>
 </div>
@@ -126,13 +67,4 @@
   <li>Recognized on the Dean's List at Dr. Hilla Limann Technical University for academic excellence.</li>
 </ul>
 
-
-      </main>
-    </div>
-  </div>
-
-  <footer>
-    <p>&copy; 2025 My Portfolio. All rights reserved.</p>
-  </footer>
-</body>
-</html>
+:ET
