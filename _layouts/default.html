@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sample Blog Post - My Portfolio</title>
-  <link rel="stylesheet" href="/assets/main.css">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 </head>
 <body>
@@ -41,40 +41,14 @@
 
       <!-- Scrollable Content Area -->
       <main class="content">
-        
-  <nav>
-    <ul>
-      
-        <li><a href="/about/">About Me</a></li>
-      
-        <li><a href="/professional_experience/">Professional Experience</a></li>
-      
-        <li><a href="/achievements/">Achievements</a></li>
-      
-        <li><a href="/projects/">Projects</a></li>
-      
-        <li><a href="/blog/">Blog Posts</a></li>
-      
-    </ul>
-  </nav>
-        <small>17 February 2025</small>
-<h1>Sample Blog Post</h1>
-
-<p class="view">by </p>
-
-<p>This is a sample blog post. Use this space to share your thoughts, experiences, or technical insights.</p>
-
-
-
-  <small>tags: <em></em></small>
-
-
+        {% include header.html %}
+        {{ content }}
       </main>
     </div>
   </div>
 
   <footer>
-    <p>&copy; 2025 My Portfolio. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
   </footer>
 </body>
 </html>
