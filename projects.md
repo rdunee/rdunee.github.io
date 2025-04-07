@@ -4,6 +4,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# Projects
+# My Portfolio
 
 [List your projects with descriptions, links, and images if available.]

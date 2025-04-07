@@ -1,11 +1,7 @@
----
-layout: default
-title: "Roland Dunee - Portfolio"
----
-
+I"�
 <div class="profile-header">
 
-  <p><h4>IT Support Engineer Manager | </h4></p>
+  <p><h4>&lt;IT Support Engineer Manager | /h4&gt;&lt;/p&gt;
 
 
 <h2>SUMMARY</h2>
@@ -15,18 +11,18 @@ title: "Roland Dunee - Portfolio"
 
 <h2>EDUCATION</h2>
 <ul>
-  <li><strong>Master of Science in Information Technology</strong>, Carnegie Mellon University Africa – Kigali, Rwanda (2023 - 2025)<br>Specializations: Cybersecurity</li>
-  <li><strong>Bachelor of Science in Information Technology</strong>, University of Education, Winneba - Kumasi, Ghana (2015 - 2017)<br>Specializations: Software Engineering</li>
+  <li><strong>Master of Science in Information Technology</strong>, Carnegie Mellon University Africa – Kigali, Rwanda (2023 - 2025)<br />Specializations: Cybersecurity</li>
+  <li><strong>Bachelor of Science in Information Technology</strong>, University of Education, Winneba - Kumasi, Ghana (2015 - 2017)<br />Specializations: Software Engineering</li>
 </ul>
 
 <h2>TECHNICAL SKILLS</h2>
 <ul>
   <li><strong>IT Management:</strong> Network Admin (LAN/WAN, TCP/IP, DNS, VPN), Server Maintenance, AV Support</li>
-  <li><strong>Cybersecurity:</strong> GRC, Data Protection, Backup & Recovery, IT Governance, Risk Management, ISO/IEC 27001:2022, NIST CSF</li>
+  <li><strong>Cybersecurity:</strong> GRC, Data Protection, Backup &amp; Recovery, IT Governance, Risk Management, ISO/IEC 27001:2022, NIST CSF</li>
   <li><strong>Tools/Technologies:</strong> RAG, LangChain, PHP, MySQL, Oracle, CodeIgniter, Apache, Bootstrap</li>
   <li><strong>Project Management:</strong> Agile, Cross-functional Collaboration</li>
   <li><strong>Soft Skills:</strong> Leadership, Communication, Data-driven Decisions</li>
-  <li><strong>Platforms:</strong> Windows, macOS, Google Workspace, Microsoft 365 & Entra, Linux, AWS, Azure, Railway</li>
+  <li><strong>Platforms:</strong> Windows, macOS, Google Workspace, Microsoft 365 &amp; Entra, Linux, AWS, Azure, Railway</li>
 </ul>
 
 <h2>CERTIFICATIONS</h2>
@@ -38,10 +34,12 @@ title: "Roland Dunee - Portfolio"
   <li>CompTIA Security+ – Ongoing</li>
 </ul>
 
-<h2>LEADERSHIP & ACHIEVEMENTS</h2>
+<h2>LEADERSHIP &amp; ACHIEVEMENTS</h2>
 <ul>
   <li>Elected Association President, Association of Polytechnics Information Technology Students (APITS) – Demonstrated strong leadership and team collaboration.</li>
   <li>Actively contributed to Microsoft Pathfinder's Help Desk initiative during the 40th Anniversary of Wa Senior High School, showcasing community engagement and IT support excellence.</li>
   <li>Recognized on the Dean's List at Dr. Hilla Limann Technical University for academic excellence.</li>
 </ul>
 
+</h4></p></div>
+:ET
