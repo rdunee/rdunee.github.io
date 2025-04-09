@@ -5,7 +5,7 @@ title: "Roland Dunee - Portfolio"
 
 <div class="profile-header">
 
-  <p><h4>IT Support Engineer Manager | </h4></p>
+  <p><h4>IT Support Engineer Manager | Cybersecurity Engineer </h4></p>
 
 
 <h2>SUMMARY</h2>
